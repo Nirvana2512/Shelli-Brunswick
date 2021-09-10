@@ -1,9 +1,3 @@
-/**
-* Template Name: Knight - v2.2.1
-* Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -325,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/EARTHhh.jpg");
+  background: url("../img/EARTH\ \(1\).jpg");
   /*url("../img/testimonials-bg.jpg") no-repeat;    url("../img/hero-bg.png")*/
   position: relative;
 }
